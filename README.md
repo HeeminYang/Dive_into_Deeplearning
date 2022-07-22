@@ -1,1 +1,1 @@
-# gAMza is goal of Analytics for Medical from z to a
+# GAMZA is Goal of Analyst that Medical data of analiZing Approch

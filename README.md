@@ -4,9 +4,9 @@ The Book-reading that Laboratory activity took place in summer vacation of 2022 
 I upload ipynb file about the session that I have taken in book-reading.  
 
 ### Session Composition
-8.5 Implementation of Recurrent Neural Networks from Scratch. 
-8.6 Concise Implementation of Recurrent Neural Networks. 
-8.7 Backpropagation Through Time, BPTT.  
+8.5 Implementation of Recurrent Neural Networks from Scratch.  
+8.6 Concise Implementation of Recurrent Neural Networks.  
+8.7 Backpropagation Through Time, BPTT.   
 14.12 Neural Style Transfer.  
 14.13 Image Classification (CIFAR-10) on Kaggle.  
 14.14 Dog Breed Identification (ImageNet Dogs) on Kaggle. 

@@ -1,5 +1,5 @@
-# Study_Dive_into_Deeplearning
-### About This
+# Study: Dive into Deeplearning
+## About This
 2022년 여름방학, DHLab에서 진행된 북리딩의 기록이다.  
 본인이 맡았던 단원에 대해 업로드 하였다.  
 
